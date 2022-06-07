@@ -20,11 +20,8 @@ def banner():
 
 def dirs():
     with open('./dir.txt', 'r') as f:
-        dirs = f.readlines()
-        dir = []
-        for d in dirs:
-            dir.append(d.replace('\n',''))
-    return dir
+        dirs = f.read().split('\n')
+    return dirs
 
 
 def dir_scan(url,dir):
