@@ -1,2 +1,0 @@
-端口:22,返回内容:b'SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4\r\n'
-端口:22,返回内容:b'SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4\r\n'
