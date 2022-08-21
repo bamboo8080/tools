@@ -32,6 +32,135 @@ Proxy插件: https://chrome.google.com/webstore/detail/proxy-switchyomega/padekg
 
 请食用官方文档: https://docs.cfw.lbyczf.com/
 
+## 收藏栏
+
+#### 工具
+
+0Zone：https://0.zone/
+
+Fofa：https://fofa.info/toLogin
+
+Windows提权&杀软识别：https://i.hacking8.com/tiquan/
+
+Linux提权命令查询：https://gtfobins.github.io/
+
+Linux命令查询：https://wangchujiang.com/linux-command/
+
+微步云沙箱：https://s.threatbook.com/
+
+Virustotal：https://www.virustotal.com/gui/home/upload
+
+大圣云沙箱：https://mac-cloud.riskivy.com/detect?theme=vulbox
+
+反弹shell：https://weibell.github.io/reverse-shell-generator/
+
+社工密码生成器：https://www.bugku.com/mima/
+
+文本去重：http://tools.bugscaner.com/quchong/
+
+Curl：https://curlconverter.com/
+
+Exp_DB：https://www.exploit-db.com/
+
+IP定位：https://www.ipuu.net/Home
+
+DNS解析（查询子域）：https://rapiddns.io/subdomain
+
+Dnslog：http://www.dnslog.cn/
+
+XSS盲打：https://xssaq.com/login/
+
+SSRFPayload生成：https://tools.intigriti.io/redirector/#
+
+
+
+
+
+
+
+#### 安全资讯
+
+WooYun：http://wy.zone.ci/
+
+EduSrc：https://src.sjtu.edu.cn/
+
+漏洞盒子：https://www.vulbox.com/projects/list
+
+
+
+网络安全文库：http://wiki.peiqi.tech/
+
+Hacking8：https://www.hacking8.com/
+
+456+（国外安全文库）：https://opensourcelibs.com/libs/hacking-tool
+
+知识星球：https://wx.zsxq.com/dweb2/index/
+
+
+
+微步社区：https://x.threatbook.com/
+
+斗象Freebuf：https://www.freebuf.com/
+
+看雪：https://www.kanxue.com/
+
+安全客：https://www.anquanke.com/
+
+T00ls：https://www.t00ls.com/
+
+
+
+先知：https://xz.aliyun.com/
+
+火线Zone：https://zone.huoxian.cn/
+
+52破解：https://www.52pojie.cn/forum.php
+
+少客联盟：https://www.cnsuc.net/
+
+
+
+国光：https://www.sqlsec.com/
+
+算命瞎子：http://www.nmd5.com/
+
+心灵鸡汤君：https://www.xljtj.com/
+
+
+
+赏金猎人tips：https://twitter.com/search?q=%23bugbountytips&src=typeahead_click
+
+
+
+#### 靶场
+
+Pikachu：http://ctf.aabyss.cn/index.php
+
+安鸾：https://www.whalwl.com/challenges
+
+墨者：https://www.mozhe.cn/
+
+赏金猎人：https://www.bugbountyhunter.com/
+
+Vulhub：https://vulhub.org/#/docs/install-docker-one-click/
+
+Vulhub（vbox）：https://www.vulnhub.com/
+
+攻防世界：https://adworld.xctf.org.cn/home/index
+
+
+
+#### 资源
+
+果核：https://www.ghxi.com/
+
+蓝米兔：https://www.lanmitu.com/
+
+壁纸：https://wallhaven.cc/toplist
+
+镜像：https://msdn.sjjzm.com/
+
+​			https://msdn.itellyou.cn/
 
 ## 常用命令
 
