@@ -23,11 +23,13 @@ Proxy插件: https://chrome.google.com/webstore/detail/proxy-switchyomega/padekg
 
 ## 收藏栏
 
-#### 工具
+#### 空间搜索引擎
 
 0Zone：https://0.zone/
 
 Fofa：https://fofa.info/toLogin
+
+#### 提权&linux命令
 
 Windows提权&杀软识别：https://i.hacking8.com/tiquan/
 
@@ -35,11 +37,15 @@ Linux提权命令查询：https://gtfobins.github.io/
 
 Linux命令查询：https://wangchujiang.com/linux-command/
 
+#### 沙箱查毒
+
 微步云沙箱：https://s.threatbook.com/
 
 Virustotal：https://www.virustotal.com/gui/home/upload
 
 大圣云沙箱：https://mac-cloud.riskivy.com/detect?theme=vulbox
+
+#### 工具
 
 反弹shell：https://weibell.github.io/reverse-shell-generator/
 
@@ -51,9 +57,15 @@ Curl：https://curlconverter.com/
 
 Exp_DB：https://www.exploit-db.com/
 
+#### 信息收集
+
 IP定位：https://www.ipuu.net/Home
 
 DNS解析（查询子域）：https://rapiddns.io/subdomain
+
+phpinfo（子域名爆破）：https://phpinfo.me/domain/
+
+#### 漏洞辅助平台
 
 Dnslog：http://www.dnslog.cn/
 
