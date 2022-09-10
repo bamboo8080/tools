@@ -235,6 +235,44 @@ x  保存退出
 
 ```
 
+### 代码模板
+#### JavaScript逆向
+```
+import execjs
+
+with open("./dns.js",'r',encoding='utf-8') as f:
+
+    ctx = execjs.compile(f.read())
+    # 调用get_enc方法，传参 1，并将return的值赋给变量enc
+    enc = ctx.call(
+        "AES_Decrypt",
+        'OzVk7hagbpdID5hcIGsWLg==')
+    # 打印enc值
+    print(enc)
+
+```
+#### Tamper
+```
+import execjs
+from lib.core.enums import PRIORITY
+
+__priority__ = PRIORITY.LOW
+
+def dependencies():
+    pass
+
+
+def tamper(payload, **kwargs):
+    with open(r"E:\PyProject\tamper\aes.js") as f:
+        ctx = execjs.compile(f.read())
+        enc = ctx.call(
+            "AES_Decrypt",
+            f"{payload.encode(encoding='utf-8')}"
+        )
+        str_aes = enc
+        return str_aes if payload else payload
+```
+
 # 常用命令
 
 ## NC
