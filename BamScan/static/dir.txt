@@ -1,0 +1,8 @@
+admin.php
+index.php
+0admin
+0admin/
+0manager/
+_admin/
+_admin2/
+_private/
