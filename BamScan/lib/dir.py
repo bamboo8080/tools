@@ -27,8 +27,8 @@ def q_get(q,lock,d):
     while True:
         lock.acquire()
         r = q.get()
-        lock.release()
         dir(d,r)
+        lock.release()
         if q.empty():
             break
 
