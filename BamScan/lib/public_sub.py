@@ -17,7 +17,7 @@ def search(domain):
 def rapiddns(domain):
     try:
         response = requests.get('https://rapiddns.io/subdomain/{}?full=1&down=1#result'.format(domain))
-        result = re.findall('<td>(.*).tit.edu.cn</td>', response.text)
+        result = re.findall('<td>(.*)</td>', response.text)
         for i in result:
             print('[+] {0}.{1}'.format(i,domain))
     except Exception:
