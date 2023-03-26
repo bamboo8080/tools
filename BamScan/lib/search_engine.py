@@ -5,7 +5,7 @@ import requests
 import base64
 def fofa(domain):
     params = {
-        'email': '202054321@tit.edu.cn',
+        'email': '',
         'key': '填写您的key',
         'qbase64': '{}'.format(str(base64.b64encode(domain.encode("utf-8")), "utf-8"))
     }
