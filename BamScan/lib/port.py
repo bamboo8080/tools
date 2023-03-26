@@ -26,8 +26,9 @@ def q_get(ip,q,lock):
     while True:
         lock.acquire()
         p = q.get()
-        lock.release()
         connect(ip, p)
+        lock.release()
+        
 
         if q.empty():
             break
