@@ -28,8 +28,8 @@ def q_get(q,lock,d):
     while True:
         lock.acquire()
         s = q.get()
-        lock.release()
         sub(d,s)
+        lock.release()
         if q.empty():
             break
 
